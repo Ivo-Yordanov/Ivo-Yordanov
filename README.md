@@ -1,21 +1,20 @@
-## Welcome 👋
-Currently a 2nd-year grad student at TUDelft, studying Data Science and Artificial Intelligence.
+<p align="center">
+  <a href="https://github.com/Ivo-Yordanov">
+    <img src="https://github.com/user-attachments/assets/d8f8f919-fa69-4c3e-b56b-d6e40b1f8ea7" alt="Ivo Yordanov" style="width: 20%; height: auto;"/></a>
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<picture>
-  <source
-    srcset="https://github-readme-stats-two-phi-92.vercel.app/api?username=Ivo-Yordanov&show_icons=true&icon_color=ffffff&hide_rank=true&custom_title=Github+Stats&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-two-phi-92.vercel.app/api?username=Ivo-Yordanov&show_icons=true&hide_rank=true&custom_title=Github+Stats&theme=graywhite"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-two-phi-92.vercel.app/api?username=Ivo-Yordanov" />
-</picture>
-</a>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Master's+Degree+TU+Delft;&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-## Languages
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ivo-yordanov-b39135254/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/87670545-2fbd-4b9d-9bad-b2f36f319e74"/></a>
+</p>
+
+## Languages and Frameworks
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <picture>
@@ -57,6 +56,22 @@ Basic Exposure:
 IDEs/Editors:
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="30" height="30"/></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30"/></code>&nbsp;
+
+## Github Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<picture>
+  <source
+    srcset="https://github-readme-stats-two-phi-92.vercel.app/api?username=Ivo-Yordanov&show_icons=true&icon_color=ffffff&hide_rank=true&custom_title=Github+Stats&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-two-phi-92.vercel.app/api?username=Ivo-Yordanov&show_icons=true&hide_rank=true&custom_title=Github+Stats&theme=graywhite"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-two-phi-92.vercel.app/api?username=Ivo-Yordanov" />
+</picture>
+</a>
 
 <!--
 **Ivo-Yordanov/Ivo-Yordanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
