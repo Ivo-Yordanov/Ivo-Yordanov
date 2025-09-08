@@ -5,6 +5,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <picture>
     <source
       srcset="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Master's+Degree+TU+Delft;&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22"
       media="(prefers-color-scheme: dark)"
@@ -13,7 +14,9 @@
       srcset="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Master's+Degree+TU+Delft;&font=Fira%20Code&center=true&width=440&height=45&color=000000&vCenter=true&pause=1000&size=22"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Master's+Degree+TU+Delft;&font=Fira%20Code&center=true&width=440&height=45&color=000000&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Master's+Degree+TU+Delft;&font=Fira%20Code&center=true&width=440&height=45&color=0072B1&vCenter=true&pause=1000&size=22" />
+    </picture>
+  </a>
 </p>
 
 <!-- Social icons section -->
