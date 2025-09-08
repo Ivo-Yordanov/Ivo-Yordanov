@@ -15,7 +15,7 @@
 
 ## Languages and Frameworks
 
-[![Ivo Languages](https://github-readme-stats-two-phi-92.vercel.app/api/top-langs/?username=Ivo-Yordanov&size_weight=0.2&count_weight=0.8&langs_count=14&layout=compact&card_width=400&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Ivo Languages](https://github-readme-stats-two-phi-92.vercel.app/api/top-langs/?username=Ivo-Yordanov&text_color=ffffff&size_weight=0.2&count_weight=0.8&langs_count=14&layout=compact&card_width=400&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Proficient: 
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="30" height="30"/></code>&nbsp;
@@ -46,7 +46,7 @@ IDEs/Editors:
 
 ## Github Stats
 
-[![Ivo Stats](https://github-readme-stats-two-phi-92.vercel.app/api?username=Ivo-Yordanov&show_icons=true&icon_color=ffffff&hide_rank=true&custom_title=Github+Stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Ivo Stats](https://github-readme-stats-two-phi-92.vercel.app/api?username=Ivo-Yordanov&show_icons=true&icon_color=ffffff&text_color=ffffff&hide_rank=true&custom_title=Github+Stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Ivo-Yordanov/Ivo-Yordanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
