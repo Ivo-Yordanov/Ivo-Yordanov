@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Ivo-Yordanov">
-    <img src="https://github.com/user-attachments/assets/d8f8f919-fa69-4c3e-b56b-d6e40b1f8ea7" alt="Ivo Yordanov" style="width: 20%; height: auto;"/></a>
+  <h3 align="center"> Ivo Yordanov </h3>
 </p>
 
 <p align="center">
