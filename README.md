@@ -29,11 +29,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <picture>
   <source
-    srcset="https://github-readme-stats-two-phi-92.vercel.app/api/top-langs/?username=Ivo-Yordanov&exclude_repo=TU_Delft_3DCGA&text_color=ffffff&size_weight=0.2&count_weight=0.8&langs_count=14&layout=compact&card_width=400&theme=dark"
+    srcset="https://github-readme-stats-two-phi-92.vercel.app/api/top-langs/?username=Ivo-Yordanov&exclude_repo=TU_Delft_3DCGA,TU_Delft_3DCGA_Project&text_color=ffffff&size_weight=0.2&count_weight=0.8&langs_count=14&layout=compact&card_width=400&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-two-phi-92.vercel.app/api/top-langs/?username=Ivo-Yordanov&exclude_repo=TU_Delft_3DCGA&text_color=000000&size_weight=0.2&count_weight=0.8&langs_count=14&layout=compact&card_width=400&theme=greywhite"
+    srcset="https://github-readme-stats-two-phi-92.vercel.app/api/top-langs/?username=Ivo-Yordanov&exclude_repo=TU_Delft_3DCGA,TU_Delft_3DCGA_Project&text_color=000000&size_weight=0.2&count_weight=0.8&langs_count=14&layout=compact&card_width=400&theme=greywhite"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats-two-phi-92.vercel.app/api/top-langs?username=Ivo-Yordanov" />
